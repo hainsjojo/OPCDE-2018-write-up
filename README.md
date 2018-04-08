@@ -2,7 +2,7 @@
 
 ## Misc 
 
-* RansomPics
+* [RansomPics](https://github.com/hainsjojo/OPCDE-2018-write-up/tree/master/Misc/RansomPics)
 * b33ps
 * Q.R.E.A.M
 
