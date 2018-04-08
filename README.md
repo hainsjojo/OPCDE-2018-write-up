@@ -8,3 +8,21 @@
 
 ## Forensic
 
+* Dird
+* flagsync
+* Under pressure
+
+## Reversing
+
+* ReverseMe!
+* bin mirrors
+* Python Bygones
+
+## Programing
+
+* Forever Alone
+* what the math?
+* NSA Math Test
+* cracktorial
+
+## Trivia
