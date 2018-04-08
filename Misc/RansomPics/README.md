@@ -21,7 +21,7 @@ So from our observation we can see that most pngs have the same first 16 bytes `
 
 Lets find the key using this python program
 
-```
+```python
 import binascii, sys
 def xor_strings(xs, ys):
 	return "".join(chr(ord(x) ^ ord(y)) for x, y in zip(xs, ys))
@@ -49,7 +49,7 @@ So our xor key is `6b42022adeadbeefcaf25881c786feed`.
 
 Lets decrypt the encrypted file with this program.
 
-```
+```python
 import sys
 
 def xor(data, key):
