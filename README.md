@@ -26,3 +26,7 @@
 * [Cracktorial](https://github.com/hainsjojo/OPCDE-2018-write-up/tree/master/Programming/Cractorial)
 
 ## Trivia
+* [Crash Override](https://github.com/hainsjojo/OPCDE-2018-write-up/tree/master/Trivia#crash-override)
+* [Programming Ethics](https://github.com/hainsjojo/OPCDE-2018-write-up/tree/master/Trivia#programming-ethics)
+* [Information Wants to be Free](https://github.com/hainsjojo/OPCDE-2018-write-up/tree/master/Trivia#information-wants-to-be-free)
+* [Reading is Fun](https://github.com/hainsjojo/OPCDE-2018-write-up/tree/master/Trivia#reading-is-fun)
