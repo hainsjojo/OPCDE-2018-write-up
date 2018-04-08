@@ -65,3 +65,7 @@ print xor(data,key)
 ```
 
 `root@c0dbat:~/Desktop# python xordecrypt.py flag_16.xng >> final.png`
+
+Voila we got the flag.
+
+![](https://i.imgur.com/DxkHvtZ.png)
