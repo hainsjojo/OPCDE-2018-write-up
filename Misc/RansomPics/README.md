@@ -45,3 +45,23 @@ print binascii.hexlify(xor_strings(string,sinput))
 root@c0dbat:~/Desktop# python xorstring.py E2124C6DD3A7A4E5CAF2588C8ECEBABF 89504E470D0A1A0A0000000D49484452
 6b42022adeadbeefcaf25881c786feed
 ```
+So our xor key is `6b42022adeadbeefcaf25881c786feed`.
+
+Lets decrypt the encrypted file with this program.
+
+```
+import sys
+
+def xor(data, key):
+	l = len(key)
+	return bytearray((
+		(data[i] ^ key[i % l]) for i in range(0,len(data))
+	))
+
+
+data = bytearray(open(sys.argv[1], 'rb').read())
+key = bytearray([0x6b,0x42,0x02,0x2a,0xde,0xad,0xbe,0xef,0xca,0xf2,0x58,0x81,0xc7,0x86,0xfe,0xed])
+print xor(data,key)
+```
+
+`root@c0dbat:~/Desktop# python xordecrypt.py flag_16.xng >> final.png`
