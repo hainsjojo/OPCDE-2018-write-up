@@ -9,4 +9,4 @@ As most ransomwares use simple encrypting systems lets assume that it has been x
 As the file has been named `flag_16.xng` lets assume that a 16 byte key is used to xor every byte of the file, and we need this key to get the original png back.
 
 Lets look at the first 16 bytes on the given file.
-![16byte](https://imgur.com/q4Q3bBq)
+![](https://i.imgur.com/3qL5JJY.png)
