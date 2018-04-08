@@ -43,5 +43,5 @@ print binascii.hexlify(xor_strings(string,sinput))
 
 ```
 root@c0dbat:~/Desktop# python xorstring.py E2124C6DD3A7A4E5CAF2588C8ECEBABF 89504E470D0A1A0A0000000D49484452
-006b42022adeadbeefcaf25881c786feed
+6b42022adeadbeefcaf25881c786feed
 ```
