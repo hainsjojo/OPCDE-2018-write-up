@@ -6,7 +6,7 @@
 
 **Write up**
 
-We have been given a dog+bird 'jpg' file.
+We have been given a dog+bird `jpg` file.
 
 We can't find anything interesting using `strings -a` or `binwalk`, so we run `exiftool` on the file to get the metadata of the JPEG:
 ```
