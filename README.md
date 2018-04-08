@@ -3,26 +3,26 @@
 ## Misc 
 
 * [RansomPics](https://github.com/hainsjojo/OPCDE-2018-write-up/tree/master/Misc/RansomPics)
-* b33ps
-* Q.R.E.A.M
+* [b33ps](https://github.com/hainsjojo/OPCDE-2018-write-up/tree/master/Misc/b33ps)
+* [Q.R.E.A.M](https://github.com/hainsjojo/OPCDE-2018-write-up/tree/master/Misc/Q.R.E.A.M)
 
 ## Forensic
 
-* Dird
-* flagsync
-* Under pressure
+* [Dird](https://github.com/hainsjojo/OPCDE-2018-write-up/tree/master/Forensic/Dird)
+* [flagsync](https://github.com/hainsjojo/OPCDE-2018-write-up/tree/master/Forensic/flagsync)
+* [Under pressure](https://github.com/hainsjojo/OPCDE-2018-write-up/tree/master/Forensic/Under%20Pressure)
 
 ## Reversing
 
-* ReverseMe!
-* bin mirrors
-* Python Bygones
+* [ReverseMe!](https://github.com/hainsjojo/OPCDE-2018-write-up/tree/master/Reversing/ReverseMe!)
+* [bin mirrors](https://github.com/hainsjojo/OPCDE-2018-write-up/tree/master/Reversing/bin_mirrors)
+* [Python Bygones](https://github.com/hainsjojo/OPCDE-2018-write-up/tree/master/Reversing/Python%20Bygones)
 
 ## Programing
 
-* Forever Alone
-* what the math?
-* NSA Math Test
-* cracktorial
+* [Forever Alone](https://github.com/hainsjojo/OPCDE-2018-write-up/tree/master/Programming/Forever%20Alone)
+* [What the math?](https://github.com/hainsjojo/OPCDE-2018-write-up/tree/master/Programming/What%20The%20Math)
+* [NSA Math Test](https://github.com/hainsjojo/OPCDE-2018-write-up/tree/master/Programming/NSA%20Math%20Test)
+* [Cracktorial](https://github.com/hainsjojo/OPCDE-2018-write-up/tree/master/Programming/Cractorial)
 
 ## Trivia
