@@ -7,3 +7,9 @@ Hint: nc -v services.opcde-ctf.propervilla.in 10001
 
 
 **Write up**
+
+As the description says we are supposed to find the charecter which does't repeat itself in the blob and input it back.
+I used the above attached solved.py program to do that.
+
+This returns the flag after a while.
+
