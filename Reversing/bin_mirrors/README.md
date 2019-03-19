@@ -92,14 +92,16 @@ Looking at the `main` function we can see that the program expects us to input 2
 From line 39 we can see that the first parameter is compared to `0x7a69` which is the hex for `31337`.
 
 Now trying to run the ELF with first param as 31337 we get this.
+
 ![](https://i.imgur.com/bcZ9LP4.png)
 
 Surfing the binary to find the 2nd parameter was unsucessful.
 
  Opening up `r_func` and looking at the parameter passed on to each `i_func` function we can see interesting values.
+ 
  ![](https://i.imgur.com/iirJkei.png)
  
  Trying to decode the hex values individually we get, redpill_truth.
  And yes that is our flag.
- `flag: flag{redpill_truth}`
+ `flag{redpill_truth}`
  
