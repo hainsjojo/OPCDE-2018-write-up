@@ -14,7 +14,7 @@ Lets try to run the given ELF File.
 
 Hmmmm... Lets try opening up this file in Ghidra.
 
-'''
+```
 
 /* WARNING: Could not reconcile some variable overlaps */
 
@@ -87,4 +87,4 @@ undefined4 main(int param_1,int param_2)
   }
   return uVar1;
 }
-'''
+```
